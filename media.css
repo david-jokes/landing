@@ -1,0 +1,11 @@
+@media(max-width: 768px){
+
+  .options .container{
+    display: block;
+    text-align: center;
+  }
+
+  .moznosti .container{
+    display: block;
+  }
+}

@@ -1,0 +1,46 @@
+.options{
+  color: white;
+  width: 80vw;
+  margin: 0 auto;
+}
+
+.options .option img{
+  width: 60px;
+}
+
+.options .container{
+  margin: 80px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.options .option{
+  flex-basis: 30%;
+  flex: 1;
+  text-align: center;
+  background-color: black;
+  color: white;
+  /* box-shadow: 0px 0px 20px rgba(255,255,255,0.4); */
+  border-radius: 10px;
+  margin: 10px;
+  padding: 20px 0px 20px 0px;
+}
+
+.options .option ul{
+  list-style: none;
+  padding-top: 10px;
+}
+
+.options .option ul li{
+  line-height: 2;
+}
+
+.options h2{
+  margin: 10px auto;
+  font-size: 20px;
+}
+
+.options p{
+  font-size: 13px;
+}

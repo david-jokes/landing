@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.footer .container{
+  height: 60px;
+  background-color: #AB0004;
+  margin-top: 80px;
+}
+
+.footer .container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer ul{
+  list-style: none;
+  color: white;
+}
+
+.footer ul li{
+  margin: 0px 40px;
+  display: inline-block;
+  font-size: 12px;
+}
